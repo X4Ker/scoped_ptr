@@ -1,0 +1,253 @@
+/mnt/Apps/apps/CLion/ch-0/172.3968.17/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/itpa-04/Рабочий стол/vector_example-master"
+-- [hunter] Initializing Hunter workspace (57d07480686f82ddc916a5980b4f2a18e5954c2b)
+-- [hunter]   https://github.com/ruslo/hunter/archive/v0.19.123.tar.gz
+-- [hunter]   -> /home/itpa-04/.hunter/_Base/Download/Hunter/0.19.123/57d0748
+CMake Error at Build/Hunter-prefix/src/Hunter-stamp/download-Hunter.cmake:157 (message):
+  Each download failed!
+
+    error: downloading 'https://github.com/ruslo/hunter/archive/v0.19.123.tar.gz' failed
+         status_code: 35
+         status_string: "SSL connect error"
+         log:
+         --- LOG BEGIN ---
+           Trying 192.30.253.113...
+
+  TCP_NODELAY set
+
+  Connected to github.com (192.30.253.113) port 443 (#0)
+
+  Cipher selection:
+  ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+
+  successfully set certificate verify locations:
+
+    CAfile: /etc/ssl/certs/ca-certificates.crt
+    CApath: /etc/ssl/certs
+
+  TLSv1.1 (OUT), TLS handshake, Client hello (1):
+
+  [211 bytes data]
+
+  TLSv1.1 (IN), TLS alert, Server hello (2):
+
+  [2 bytes data]
+
+  error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol
+  version
+
+  Curl_http_done: called premature == 1
+
+  Closing connection 0
+
+  
+
+         --- LOG END ---
+         error: downloading 'https://github.com/ruslo/hunter/archive/v0.19.123.tar.gz' failed
+         status_code: 35
+         status_string: "SSL connect error"
+         log:
+         --- LOG BEGIN ---
+           Trying 192.30.253.113...
+
+  TCP_NODELAY set
+
+  Connected to github.com (192.30.253.113) port 443 (#0)
+
+  Cipher selection:
+  ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+
+  successfully set certificate verify locations:
+
+    CAfile: /etc/ssl/certs/ca-certificates.crt
+    CApath: /etc/ssl/certs
+
+  TLSv1.1 (OUT), TLS handshake, Client hello (1):
+
+  [211 bytes data]
+
+  TLSv1.1 (IN), TLS alert, Server hello (2):
+
+  [2 bytes data]
+
+  error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol
+  version
+
+  Curl_http_done: called premature == 1
+
+  Closing connection 0
+
+  
+
+         --- LOG END ---
+         error: downloading 'https://github.com/ruslo/hunter/archive/v0.19.123.tar.gz' failed
+         status_code: 35
+         status_string: "SSL connect error"
+         log:
+         --- LOG BEGIN ---
+           Trying 192.30.253.113...
+
+  TCP_NODELAY set
+
+  Connected to github.com (192.30.253.113) port 443 (#0)
+
+  Cipher selection:
+  ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+
+  successfully set certificate verify locations:
+
+    CAfile: /etc/ssl/certs/ca-certificates.crt
+    CApath: /etc/ssl/certs
+
+  TLSv1.1 (OUT), TLS handshake, Client hello (1):
+
+  [211 bytes data]
+
+  TLSv1.1 (IN), TLS alert, Server hello (2):
+
+  [2 bytes data]
+
+  error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol
+  version
+
+  Curl_http_done: called premature == 1
+
+  Closing connection 0
+
+  
+
+         --- LOG END ---
+         error: downloading 'https://github.com/ruslo/hunter/archive/v0.19.123.tar.gz' failed
+         status_code: 35
+         status_string: "SSL connect error"
+         log:
+         --- LOG BEGIN ---
+           Trying 192.30.253.113...
+
+  TCP_NODELAY set
+
+  Connected to github.com (192.30.253.113) port 443 (#0)
+
+  Cipher selection:
+  ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+
+  successfully set certificate verify locations:
+
+    CAfile: /etc/ssl/certs/ca-certificates.crt
+    CApath: /etc/ssl/certs
+
+  TLSv1.1 (OUT), TLS handshake, Client hello (1):
+
+  [211 bytes data]
+
+  TLSv1.1 (IN), TLS alert, Server hello (2):
+
+  [2 bytes data]
+
+  error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol
+  version
+
+  Curl_http_done: called premature == 1
+
+  Closing connection 0
+
+  
+
+         --- LOG END ---
+         error: downloading 'https://github.com/ruslo/hunter/archive/v0.19.123.tar.gz' failed
+         status_code: 35
+         status_string: "SSL connect error"
+         log:
+         --- LOG BEGIN ---
+           Trying 192.30.253.113...
+
+  TCP_NODELAY set
+
+  Connected to github.com (192.30.253.113) port 443 (#0)
+
+  Cipher selection:
+  ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+
+  successfully set certificate verify locations:
+
+    CAfile: /etc/ssl/certs/ca-certificates.crt
+    CApath: /etc/ssl/certs
+
+  TLSv1.1 (OUT), TLS handshake, Client hello (1):
+
+  [211 bytes data]
+
+  TLSv1.1 (IN), TLS alert, Server hello (2):
+
+  [2 bytes data]
+
+  error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol
+  version
+
+  Curl_http_done: called premature == 1
+
+  Closing connection 0
+
+  
+
+         --- LOG END ---
+         error: downloading 'https://github.com/ruslo/hunter/archive/v0.19.123.tar.gz' failed
+         status_code: 35
+         status_string: "SSL connect error"
+         log:
+         --- LOG BEGIN ---
+           Trying 192.30.253.113...
+
+  TCP_NODELAY set
+
+  Connected to github.com (192.30.253.113) port 443 (#0)
+
+  Cipher selection:
+  ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+
+  successfully set certificate verify locations:
+
+    CAfile: /etc/ssl/certs/ca-certificates.crt
+    CApath: /etc/ssl/certs
+
+  TLSv1.1 (OUT), TLS handshake, Client hello (1):
+
+  [211 bytes data]
+
+  TLSv1.1 (IN), TLS alert, Server hello (2):
+
+  [2 bytes data]
+
+  error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol
+  version
+
+  Curl_http_done: called premature == 1
+
+  Closing connection 0
+
+  
+
+         --- LOG END ---
+         
+    
+
+
+make[2]: *** [Hunter-prefix/src/Hunter-stamp/Hunter-download] Ошибка 1
+make[1]: *** [CMakeFiles/Hunter.dir/all] Ошибка 2
+make: *** [all] Ошибка 2
+
+[hunter ** INTERNAL **] Build project failed
+[hunter ** INTERNAL **] [Directory:/home/itpa-04/Рабочий стол/vector_example-master]
+
+------------------------------ WIKI -------------------------------
+    https://github.com/ruslo/hunter/wiki/error.internal
+-------------------------------------------------------------------
+
+CMake Error at cmake/HunterGate.cmake:82 (message):
+Call Stack (most recent call first):
+  cmake/HunterGate.cmake:92 (hunter_gate_wiki)
+  cmake/HunterGate.cmake:346 (hunter_gate_internal_error)
+  cmake/HunterGate.cmake:510 (hunter_gate_download)
+  CMakeLists.txt:4 (HunterGate)
+
+
+-- Configuring incomplete, errors occurred!
